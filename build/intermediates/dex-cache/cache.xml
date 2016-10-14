@@ -47,7 +47,7 @@
         jar="C:\Users\Student\AndroidStudioProjects\CrystalClear\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="9c072cb1367cbefcb5ca233b82521410da9659a2">
+        sha1="f070df8642236c517d82e5d23af86d2a9a19c1b5">
         <dex dex="C:\Users\Student\AndroidStudioProjects\CrystalClear\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b8898ffde069481e3bc9377d37a52057afff9760\classes.dex" />
     </item>
     <item
@@ -75,7 +75,7 @@
         jar="C:\Users\Student\AndroidStudioProjects\CrystalClear\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="fe91c9edf7f99337eeb88a64970ab4a9c21939cb">
+        sha1="8394a888ec7e7dc74b6e12bd9f7ae7dbf9d755e1">
         <dex dex="C:\Users\Student\AndroidStudioProjects\CrystalClear\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ddcb781558bde36fabd3884a77703c637a643ddb\classes.dex" />
     </item>
     <item
